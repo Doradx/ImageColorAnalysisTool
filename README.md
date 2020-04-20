@@ -2,7 +2,7 @@
 
 A image tool for color clustering based on K-means. 
 
-![Main Page](https://raw.githubusercontent.com/Doradx/ImageColorAnalysisTool/master/images/1587383533665.png)
+![Main Page](https://raw.githubusercontent.com/Doradx/ImageColorAnalysisTool/master/images/main-page.png)
 
 # Usage
 
@@ -14,7 +14,7 @@ You can get the last version from Release page.
 
 Double click on `Image Color Analysis Tool.mlappinstall` to install the application, and you can find it in `Matlab>App`.
 
-![Image Color Analysis Tool](https://raw.githubusercontent.com/Doradx/ImageColorAnalysisTool/master/images/1587383445612.png)
+![Image Color Analysis Tool](https://raw.githubusercontent.com/Doradx/ImageColorAnalysisTool/master/images/icon.png)
 
 ## Run
 
@@ -40,11 +40,11 @@ There are three panes:
 
 You can adjust `Cluster Number` by comparing the image between `Origin` and `Cluster`. 
 
-![Cluster](https://raw.githubusercontent.com/Doradx/ImageColorAnalysisTool/master/images/1587384657491.png)
+![Cluster](https://raw.githubusercontent.com/Doradx/ImageColorAnalysisTool/master/images/cluster-image.png)
 
 Also, the color number in `Color Histogram` can be adjust by the `slider`. 
 
-![Color Histogram](https://raw.githubusercontent.com/Doradx/ImageColorAnalysisTool/master/images/1587384687339.png)
+![Color Histogram](https://raw.githubusercontent.com/Doradx/ImageColorAnalysisTool/master/images/color-histogram.png)
 
 ### 5. Others
 
