@@ -1,8 +1,6 @@
 # Image Color Analysis Tool
 
-[![View ImageColorAnalysisTool on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/75116-image-color-analysis-tool)
-
-An image tool for color clustering based on K-means.  
+An image tool for color clustering based on K-means.  [![View ImageColorAnalysisTool on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/75116-image-color-analysis-tool)
 
 ![Main Page](https://raw.githubusercontent.com/Doradx/ImageColorAnalysisTool/master/images/main-page.png)
 
